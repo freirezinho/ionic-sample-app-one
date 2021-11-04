@@ -23,7 +23,6 @@ www/
 node_modules/
 tmp/
 temp/
-plugins/
 plugins/android.json
 $RECYCLE.BIN/
 
