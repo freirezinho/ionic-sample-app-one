@@ -19,9 +19,10 @@ npm-debug.log*
 .tmp/
 .versions/
 coverage/
-www/
 node_modules/
 tmp/
+www/
+!platforms/ios/www
 temp/
 plugins/android.json
 $RECYCLE.BIN/
