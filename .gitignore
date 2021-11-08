@@ -23,6 +23,13 @@ node_modules/
 tmp/
 www/
 !platforms/ios/www
+!plugins/cordova-plugin-camera/www
+!plugins/cordova-plugin-device/www
+!plugins/cordova-plugin-ionic-keyboard/www
+!plugins/cordova-plugin-ionic-webview/src/www
+!plugins/cordova-plugin-splashscreen/www
+!plugins/cordova-plugin-statusbar/www
+!plugins/cordova-sqlite-storage/www
 temp/
 plugins/android.json
 $RECYCLE.BIN/
