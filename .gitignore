@@ -23,6 +23,13 @@ node_modules/
 tmp/
 www/
 !platforms/ios/www
+!platforms/ios/www/plugins/cordova-plugin-camera/www
+!platforms/ios/www/plugins/cordova-plugin-device/www
+!platforms/ios/www/plugins/cordova-plugin-ionic-keyboard/www
+!platforms/ios/www/plugins/cordova-plugin-ionic-webview/src/www
+!platforms/ios/www/plugins/cordova-plugin-splashscreen/www
+!platforms/ios/www/plugins/cordova-plugin-statusbar/www
+!platforms/ios/www/plugins/cordova-sqlite-storage/www
 !plugins/cordova-plugin-camera/www
 !plugins/cordova-plugin-device/www
 !plugins/cordova-plugin-ionic-keyboard/www
